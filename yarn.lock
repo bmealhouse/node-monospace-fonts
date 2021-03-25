@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-node-addon-api@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/node-addon-api/-/node-addon-api-1.1.0.tgz#9f14bf703b4f5cc1bfe6bc4a30d8c8280b2d87b9"
-  integrity sha512-WSGZ/xdGcyhNY2neCHS/JKQXdbOU5qZp8EGwxpEWSqOmI9+sCwO93npSH93ipa4z13+KZhGUgA5g/EAKH/F+Wg==
+node-addon-api@1.7.2:
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/node-addon-api/-/node-addon-api-1.7.2.tgz#3df30b95720b53c24e59948b49532b662444f54d"
+  integrity sha512-ibPK3iA+vaY1eEjESkQkM0BbCqFOaZMiXRTtdB0u7b4djtY6JnsjvPdUHVMg6xQt3B8fpTTWHI9A+ADjM9frzg==
